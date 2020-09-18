@@ -1,0 +1,25 @@
+[
+  {
+    "flag": "--help",
+    "description": "Show help content",
+    "format": "boolean"
+  },
+  {
+    "flag": "--template",
+    "alias": "-t",
+    "description": "Path to template file",
+    "format": "string"
+  },
+  {
+    "flag": "--data",
+    "alias": "-d",
+    "description": "Path to yaml data file. Defaults to stdin.",
+    "format": "string"
+  },
+  {
+    "flag": "--output",
+    "alias": "-o",
+    "description": "Path to output file. Defaults to stdout.",
+    "format": "string"
+  }
+]

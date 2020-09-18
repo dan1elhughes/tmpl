@@ -1,0 +1,9 @@
+Usage: tmpl [options]
+
+Options:
+  --help Show help content [boolean]
+  -f, --file  Load a file             [required]
+  -h, --help  Show help                [boolean]
+
+Examples:
+  line_count.js count -f foo.js  count the lines in the given file
