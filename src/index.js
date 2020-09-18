@@ -7,7 +7,6 @@ const { createReadStream, createWriteStream } = require("fs");
 const cli = require("./cli.json");
 const pkg = require("../package.json");
 const { readStream, writeStream } = require("./stream-helpers");
-const { readAsset } = require("./asset-helpers");
 const { formatToNative } = require("./cli-helpers");
 
 const argOptions = {};

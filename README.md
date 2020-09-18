@@ -1,3 +1,5 @@
+# `tmpl`
+
 ```
 tmpl 1.0.0: Basic templating utility
 

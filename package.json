@@ -8,9 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "pkg package.json -t macos -o dist/tmpl"
   },
-  "pkg": {
-    "assets": "assets/*"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dan1elhughes/tmpl.git"
